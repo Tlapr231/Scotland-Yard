@@ -1,0 +1,1929 @@
+Node 1
+Taxi : 8
+Taxi : 9
+Taxi :
+Bus : 58
+Bus : 46
+Bus :
+Train : 46
+Train :
+
+Node 2
+Taxi : 10
+Taxi : 20
+Taxi :
+Bus :
+Train :
+
+Node 3
+Taxi : 4
+Taxi : 12
+Taxi : 11
+Taxi :
+Bus : 22
+Bus : 23
+Bus :
+Train :
+
+Node 4
+Taxi : 3
+Taxi : 13
+Taxi :
+Bus :
+Train :
+
+Node 5
+Taxi : 15
+Taxi : 16
+Taxi :
+Bus :
+Train :
+
+Node 6
+Taxi : 7
+Taxi : 29
+Taxi :
+Bus :
+Train :
+
+Node 7
+Taxi : 6
+Taxi : 17
+Taxi :
+Bus : 42
+Bus :
+Train :
+
+Node 8
+Taxi : 1
+Taxi : 18
+Taxi : 19
+Taxi :
+Bus :
+Train :
+
+Node 9
+Taxi : 1
+Taxi : 19
+Taxi : 20
+Taxi :
+Bus :
+Train :
+
+Node 10
+Taxi : 2
+Taxi : 11
+Taxi : 21
+Taxi : 34
+Taxi :
+Bus :
+Train :
+
+Node 11
+Taxi : 3
+Taxi : 10
+Taxi : 22
+Taxi :
+Bus :
+Train :
+
+Node 12
+Taxi : 3
+Taxi : 23
+Taxi :
+Bus :
+Train :
+
+Node 13
+Taxi : 4
+Taxi : 23
+Taxi : 14
+Taxi : 24
+Taxi :
+Bus : 23
+Bus : 14
+Bus : 52
+Bus :
+Train : 67
+Train : 89
+Train : 46
+Train :
+
+Node 14
+Taxi : 13
+Taxi : 25
+Taxi : 15
+Taxi :
+Bus : 15
+Bus : 13
+Bus :
+Train :
+
+Node 15
+Taxi : 14
+Taxi : 26
+Taxi : 28
+Taxi : 16
+Taxi : 5
+Taxi :
+Bus : 14
+Bus : 41
+Bus : 29
+Bus :
+Train :
+
+Node 16
+Taxi : 5
+Taxi : 15
+Taxi : 28
+Taxi : 29
+Taxi :
+Bus :
+Train :
+
+Node 17
+Taxi : 7
+Taxi : 29
+Taxi : 42
+Taxi : 30
+Taxi :
+Bus :
+Train :
+
+Node 18
+Taxi : 8
+Taxi : 31
+Taxi : 43
+Taxi :
+Bus :
+Train :
+
+Node 19
+Taxi : 8
+Taxi : 9
+Taxi : 32
+Taxi :
+Bus :
+Train :
+
+Node 20
+Taxi : 9
+Taxi : 33
+Taxi : 2
+Taxi :
+Bus :
+Train :
+
+Node 21
+Taxi : 10
+Taxi : 33
+Taxi :
+Bus :
+Train :
+
+Node 22
+Taxi : 11
+Taxi : 23
+Taxi : 35
+Taxi : 34
+Taxi :
+Bus : 34
+Bus : 23
+Bus : 3
+Bus : 65
+Bus :
+Train :
+
+Node 23
+Taxi : 22
+Taxi : 37
+Taxi : 12
+Taxi : 13
+Taxi :
+Bus : 3
+Bus : 22
+Bus : 67
+Bus : 13
+Bus :
+Train :
+
+Node 24
+Taxi : 13
+Taxi : 37
+Taxi : 38
+Taxi :
+Bus :
+Train :
+
+Node 25
+Taxi : 14
+Taxi : 38
+Taxi : 39
+Taxi :
+Bus :
+Train :
+
+Node 26
+Taxi : 15
+Taxi : 39
+Taxi : 27
+Taxi :
+Bus :
+Train :
+
+Node 27
+Taxi : 26
+Taxi : 28
+Taxi : 40
+Taxi :
+Bus :
+Train :
+
+Node 28
+Taxi : 27
+Taxi : 15
+Taxi : 16
+Taxi : 41
+Taxi :
+Bus :
+Train :
+
+Node 29
+Taxi : 16
+Taxi : 6
+Taxi : 17
+Taxi : 42
+Taxi : 55
+Taxi : 41
+Taxi :
+Bus : 15
+Bus : 41
+Bus : 42
+Bus :
+Train :
+
+Node 30
+Taxi : 17
+Taxi : 42
+Taxi :
+Bus :
+Train :
+
+Node 31
+Taxi : 18
+Taxi : 43
+Taxi : 44
+Taxi :
+Bus :
+Train :
+
+Node 32
+Taxi : 19
+Taxi : 44
+Taxi : 45
+Taxi : 33
+Taxi :
+Bus :
+Train :
+
+Node 33
+Taxi : 20
+Taxi : 21
+Taxi : 46
+Taxi : 32
+Taxi :
+Bus :
+Train :
+
+Node 34
+Taxi : 47
+Taxi : 10
+Taxi : 22
+Taxi : 48
+Taxi :
+Bus : 22
+Bus : 63
+Bus : 46
+Bus :
+Train :
+
+Node 35
+Taxi : 36
+Taxi : 22
+Taxi : 48
+Taxi : 65
+Taxi :
+Bus :
+Train :
+
+Node 36
+Taxi : 35
+Taxi : 49
+Taxi : 37
+Taxi :
+Bus :
+Train :
+
+Node 37
+Taxi : 36
+Taxi : 23
+Taxi : 24
+Taxi : 50
+Taxi :
+Bus :
+Train :
+
+Node 38
+Taxi : 24
+Taxi : 25
+Taxi : 50
+Taxi : 51
+Taxi :
+Bus :
+Train :
+
+Node 39
+Taxi : 25
+Taxi : 26
+Taxi : 52
+Taxi : 51
+Taxi :
+Bus :
+Train :
+
+Node 40
+Taxi : 27
+Taxi : 41
+Taxi : 53
+Taxi : 52
+Taxi :
+Bus :
+Train :
+
+Node 41
+Taxi : 28
+Taxi : 29
+Taxi : 54
+Taxi : 40
+Taxi :
+Bus : 15
+Bus : 29
+Bus : 87
+Bus : 52
+Bus :
+Train :
+
+Node 42
+Taxi : 29
+Taxi : 30
+Taxi : 56
+Taxi : 72
+Taxi :
+Bus : 7
+Bus : 29
+Bus : 72
+Bus :
+Train :
+
+Node 43
+Taxi : 18
+Taxi : 31
+Taxi : 57
+Taxi :
+Bus :
+Train :
+
+Node 44
+Taxi : 31
+Taxi : 32
+Taxi : 58
+Taxi :
+Bus :
+Train :
+
+Node 45
+Taxi : 58
+Taxi : 59
+Taxi : 60
+Taxi : 46
+Taxi : 32
+Taxi :
+Bus :
+Train :
+
+Node 46
+Taxi : 33
+Taxi : 47
+Taxi : 61
+Taxi : 45
+Taxi :
+Bus : 1
+Bus : 34
+Bus : 78
+Bus : 58
+Bus :
+Train : 1
+Train : 74
+Train : 79
+Train : 13
+Train :
+
+Node 47
+Taxi : 46
+Taxi : 62
+Taxi : 34
+Taxi :
+Bus :
+Train :
+
+Node 48
+Taxi : 34
+Taxi : 35
+Taxi : 63
+Taxi : 62
+Taxi :
+Bus :
+Train :
+
+Node 49
+Taxi : 36
+Taxi : 50
+Taxi : 66
+Taxi :
+Bus :
+Train :
+
+Node 50
+Taxi : 37
+Taxi : 38
+Taxi : 49
+Taxi :
+Bus :
+Train :
+
+Node 51
+Taxi : 38
+Taxi : 39
+Taxi : 52
+Taxi : 68
+Taxi : 67
+Taxi :
+Bus :
+Train :
+
+Node 52
+Taxi : 51
+Taxi : 39
+Taxi : 40
+Taxi : 69
+Taxi :
+Bus : 13
+Bus : 41
+Bus : 86
+Bus : 67
+Bus :
+Train :
+
+Node 53
+Taxi : 69
+Taxi : 40
+Taxi : 54
+Taxi :
+Bus :
+Train :
+
+Node 54
+Taxi : 41
+Taxi : 53
+Taxi : 70
+Taxi : 55
+Taxi :
+Bus :
+Train :
+
+Node 55
+Taxi : 54
+Taxi : 71
+Taxi :
+Bus : 29
+Bus : 89
+Bus :
+Train :
+
+Node 56
+Taxi : 42
+Taxi : 91
+Taxi :
+Bus :
+Train :
+
+Node 57
+Taxi : 43
+Taxi : 58
+Taxi : 73
+Taxi :
+Bus :
+Train :
+
+Node 58
+Taxi : 44
+Taxi : 45
+Taxi : 59
+Taxi : 57
+Taxi :
+Bus : 1
+Bus : 46
+Bus : 77
+Bus :
+Train :
+
+Node 59
+Taxi : 58
+Taxi : 45
+Taxi : 76
+Taxi : 75
+Taxi :
+Bus :
+Train :
+
+Node 60
+Taxi : 45
+Taxi : 76
+Taxi : 61
+Taxi :
+Bus :
+Train :
+
+Node 61
+Taxi : 60
+Taxi : 76
+Taxi : 62
+Taxi : 46
+Taxi : 78
+Taxi :
+Bus :
+Train :
+
+Node 62
+Taxi : 61
+Taxi : 47
+Taxi : 48
+Taxi : 79
+Taxi :
+Bus :
+Train :
+
+Node 63
+Taxi : 48
+Taxi : 64
+Taxi : 80
+Taxi : 79
+Taxi :
+Bus : 34
+Bus : 79
+Bus : 100
+Bus : 65
+Bus :
+Train :
+
+Node 64
+Taxi : 63
+Taxi : 81
+Taxi : 65
+Taxi :
+Bus :
+Train :
+
+Node 65
+Taxi : 35
+Taxi : 66
+Taxi : 82
+Taxi : 64
+Taxi :
+Bus : 22
+Bus : 67
+Bus : 82
+Bus : 63
+Bus :
+Train :
+
+Node 66
+Taxi : 49
+Taxi : 67
+Taxi : 82
+Taxi : 65
+Taxi :
+Bus :
+Train :
+
+Node 67
+Taxi : 51
+Taxi : 68
+Taxi : 84
+Taxi : 66
+Taxi :
+Bus : 23
+Bus : 52
+Bus : 102
+Bus : 82
+Bus : 65
+Bus :
+Train : 13
+Train : 89
+Train : 111
+Train : 79
+Train :
+
+Node 68
+Taxi : 51
+Taxi : 69
+Taxi : 85
+Taxi : 67
+Taxi :
+Bus :
+Train :
+
+Node 69
+Taxi : 52
+Taxi : 53
+Taxi : 86
+Taxi : 68
+Taxi :
+Bus :
+Train :
+
+Node 70
+Taxi : 54
+Taxi : 71
+Taxi : 87
+Taxi :
+Bus :
+Train :
+
+Node 71
+Taxi : 55
+Taxi : 72
+Taxi : 89
+Taxi : 70
+Taxi :
+Bus :
+Train :
+
+Node 72
+Taxi : 42
+Taxi : 91
+Taxi : 90
+Taxi : 71
+Taxi :
+Bus : 42
+Bus : 107
+Bus : 105
+Bus :
+Train :
+
+Node 73
+Taxi : 57
+Taxi : 92
+Taxi : 74
+Taxi :
+Bus :
+Train :
+
+Node 74
+Taxi : 73
+Taxi : 92
+Taxi : 58
+Taxi :
+Bus : 58
+Bus : 94
+Bus :
+Train : 46
+Train :
+
+Node 75
+Taxi : 74
+Taxi : 58
+Taxi : 59
+Taxi : 94
+Taxi :
+Bus :
+Train :
+
+Node 76
+Taxi : 59
+Taxi : 60
+Taxi : 61
+Taxi : 77
+Taxi :
+Bus :
+Train :
+
+Node 77
+Taxi : 76
+Taxi : 78
+Taxi : 96
+Taxi : 95
+Taxi :
+Bus : 58
+Bus : 78
+Bus : 124
+Bus : 94
+Bus :
+Train :
+
+Node 78
+Taxi : 61
+Taxi : 79
+Taxi : 97
+Taxi : 77
+Taxi :
+Bus : 79
+Bus : 77
+Bus : 46
+Bus :
+Train :
+
+Node 79
+Taxi : 62
+Taxi : 63
+Taxi : 98
+Taxi : 78
+Taxi :
+Bus : 78
+Bus : 63
+Bus :
+Train : 46
+Train : 93
+Train : 111
+Train : 67
+Train :
+
+Node 80
+Taxi : 63
+Taxi : 100
+Taxi : 99
+Taxi :
+Bus :
+Train :
+
+Node 81
+Taxi : 82
+Taxi : 64
+Taxi : 100
+Taxi :
+Bus :
+Train :
+
+Node 82
+Taxi : 65
+Taxi : 66
+Taxi : 101
+Taxi : 81
+Taxi :
+Bus : 65
+Bus : 67
+Bus : 140
+Bus : 100
+Bus :
+Train :
+
+Node 83
+Taxi : 101
+Taxi : 102
+Taxi :
+Bus :
+Train :
+
+Node 84
+Taxi : 67
+Taxi : 85
+Taxi :
+Bus :
+Train :
+
+Node 85
+Taxi : 68
+Taxi : 84
+Taxi : 103
+Taxi :
+Bus :
+Train :
+
+Node 86
+Taxi : 69
+Taxi : 87
+Taxi : 104
+Taxi : 103
+Taxi :
+Bus : 87
+Bus : 52
+Bus : 102
+Bus : 116
+Bus :
+Train :
+
+Node 87
+Taxi : 70
+Taxi : 88
+Taxi :
+Bus : 86
+Bus : 41
+Bus : 105
+Bus :
+Train :
+
+Node 88
+Taxi : 87
+Taxi : 89
+Taxi : 117
+Taxi :
+Bus :
+Train :
+
+Node 89
+Taxi : 71
+Taxi : 88
+Taxi : 105
+Taxi :
+Bus : 105
+Bus : 55
+Bus :
+Train : 13
+Train : 128
+Train : 140
+Train : 67
+Train :
+
+Node 90
+Taxi : 72
+Taxi : 91
+Taxi : 105
+Taxi :
+Bus :
+Train :
+
+Node 91
+Taxi : 56
+Taxi : 107
+Taxi : 105
+Taxi : 90
+Taxi : 72
+Taxi :
+Bus :
+Train :
+
+Node 92
+Taxi : 73
+Taxi : 74
+Taxi : 93
+Taxi :
+Bus :
+Train :
+
+Node 93
+Taxi : 92
+Taxi : 94
+Taxi :
+Bus : 94
+Bus :
+Train : 79
+Train :
+
+Node 94
+Taxi : 93
+Taxi : 75
+Taxi : 95
+Taxi :
+Bus : 93
+Bus : 74
+Bus : 77
+Bus :
+Train :
+
+Node 95
+Taxi : 94
+Taxi : 77
+Taxi : 122
+Taxi :
+Bus :
+Train :
+
+Node 96
+Taxi : 77
+Taxi : 97
+Taxi : 109
+Taxi :
+Bus :
+Train :
+
+Node 97
+Taxi : 78
+Taxi : 98
+Taxi : 109
+Taxi : 96
+Taxi :
+Bus :
+Train :
+
+Node 98
+Taxi : 79
+Taxi : 99
+Taxi : 110
+Taxi : 97
+Taxi :
+Bus :
+Train :
+
+Node 99
+Taxi : 80
+Taxi : 112
+Taxi : 110
+Taxi : 98
+Taxi :
+Bus :
+Train :
+
+Node 100
+Taxi : 80
+Taxi : 81
+Taxi : 101
+Taxi : 113
+Taxi : 112
+Taxi :
+Bus : 82
+Bus : 63
+Bus : 111
+Bus :
+Train :
+
+Node 101
+Taxi : 82
+Taxi : 83
+Taxi : 114
+Taxi : 100
+Taxi :
+Bus :
+Train :
+
+Node 102
+Taxi : 83
+Taxi : 103
+Taxi : 115
+Taxi :
+Bus : 67
+Bus : 86
+Bus : 127
+Bus :
+Train :
+
+Node 103
+Taxi : 102
+Taxi : 85
+Taxi : 86
+Taxi :
+Bus :
+Train :
+
+Node 104
+Taxi : 86
+Taxi : 116
+Taxi :
+Bus :
+Train :
+
+Node 105
+Taxi : 89
+Taxi : 90
+Taxi : 106
+Taxi : 108
+Taxi :
+Bus : 89
+Bus : 72
+Bus : 107
+Bus : 108
+Bus : 87
+Bus :
+Train :
+
+Node 106
+Taxi : 105
+Taxi : 107
+Taxi :
+Bus :
+Train :
+
+Node 107
+Taxi : 91
+Taxi : 106
+Taxi : 119
+Taxi :
+Bus : 72
+Bus : 105
+Bus : 161
+Bus :
+Train :
+
+Node 108
+Taxi : 105
+Taxi : 119
+Taxi : 117
+Taxi : 115
+Taxi :
+Bus : 105
+Bus : 135
+Bus : 116
+Bus :
+Train :
+
+Node 109
+Taxi : 96
+Taxi : 97
+Taxi : 110
+Taxi : 124
+Taxi :
+Bus :
+Train :
+
+Node 110
+Taxi : 98
+Taxi : 99
+Taxi : 111
+Taxi : 109
+Taxi :
+Bus :
+Train :
+
+Node 111
+Taxi : 110
+Taxi : 112
+Taxi : 124
+Taxi :
+Bus : 100
+Bus : 124
+Bus :
+Train : 67
+Train : 79
+Train : 153
+Train : 163
+Train :
+
+Node 112
+Taxi : 111
+Taxi : 125
+Taxi : 100
+Taxi : 99
+Taxi :
+Bus :
+Train :
+
+Node 113
+Taxi : 100
+Taxi : 114
+Taxi : 125
+Taxi :
+Bus :
+Train :
+
+Node 114
+Taxi : 101
+Taxi : 115
+Taxi : 126
+Taxi : 132
+Taxi : 131
+Taxi : 113
+Taxi :
+Bus :
+Train :
+
+Node 115
+Taxi : 102
+Taxi : 127
+Taxi : 114
+Taxi : 108
+Taxi : 157
+Taxi :
+Bus :
+Train :
+
+Node 116
+Taxi : 104
+Taxi : 117
+Taxi : 118
+Taxi : 127
+Taxi :
+Bus : 86
+Bus : 108
+Bus : 142
+Bus : 127
+Bus :
+Train :
+
+Node 117
+Taxi : 116
+Taxi : 88
+Taxi : 108
+Taxi : 129
+Taxi :
+Bus :
+Train :
+
+Node 118
+Taxi : 134
+Taxi : 116
+Taxi : 129
+Taxi : 142
+Taxi :
+Bus :
+Train :
+
+Node 119
+Taxi : 107
+Taxi : 108
+Taxi : 136
+Taxi :
+Bus :
+Train :
+
+Node 120
+Taxi : 121
+Taxi : 144
+Taxi :
+Bus :
+Train :
+
+Node 121
+Taxi : 120
+Taxi : 145
+Taxi : 122
+Taxi :
+Bus :
+Train :
+
+Node 122
+Taxi : 121
+Taxi : 95
+Taxi : 123
+Taxi : 146
+Taxi :
+Bus : 123
+Bus : 144
+Bus :
+Train :
+
+Node 123
+Taxi : 122
+Taxi : 137
+Taxi : 148
+Taxi : 149
+Taxi : 124
+Taxi :
+Bus : 122
+Bus : 144
+Bus : 165
+Bus : 124
+Bus :
+Train :
+
+Node 124
+Taxi : 123
+Taxi : 138
+Taxi : 111
+Taxi : 109
+Taxi :
+Bus : 77
+Bus : 111
+Bus : 153
+Bus : 123
+Bus :
+Train :
+
+Node 125
+Taxi : 112
+Taxi : 113
+Taxi : 131
+Taxi :
+Bus :
+Train :
+
+Node 126
+Taxi : 114
+Taxi : 115
+Taxi : 127
+Taxi : 140
+Taxi :
+Bus :
+Train :
+
+Node 127
+Taxi : 115
+Taxi : 116
+Taxi : 134
+Taxi : 133
+Taxi : 126
+Taxi :
+Bus : 102
+Bus : 116
+Bus : 133
+Bus :
+Train :
+
+Node 128
+Taxi : 142
+Taxi : 143
+Taxi : 160
+Taxi : 188
+Taxi : 172
+Taxi :
+Bus : 142
+Bus : 135
+Bus : 161
+Bus : 199
+Bus : 187
+Bus :
+Train : 185
+Train : 89
+Train : 140
+Train :
+
+Node 129
+Taxi : 117
+Taxi : 135
+Taxi : 143
+Taxi : 142
+Taxi : 118
+Taxi :
+Bus :
+Train :
+
+Node 130
+Taxi : 124
+Taxi : 139
+Taxi : 131
+Taxi :
+Bus :
+Train :
+
+Node 131
+Taxi : 130
+Taxi : 125
+Taxi : 114
+Taxi :
+Bus :
+Train :
+
+Node 132
+Taxi : 140
+Taxi : 114
+Taxi :
+Bus :
+Train :
+
+Node 133
+Taxi : 140
+Taxi : 141
+Taxi : 127
+Taxi :
+Bus : 140
+Bus : 127
+Bus : 157
+Bus :
+Train :
+
+Node 134
+Taxi : 127
+Taxi : 118
+Taxi : 142
+Taxi : 141
+Taxi :
+Bus :
+Train :
+
+Node 135
+Taxi : 129
+Taxi : 136
+Taxi : 161
+Taxi : 143
+Taxi :
+Bus : 108
+Bus : 161
+Bus : 128
+Bus :
+Train :
+
+Node 136
+Taxi : 119
+Taxi : 162
+Taxi : 135
+Taxi :
+Bus :
+Train :
+
+Node 137
+Taxi : 123
+Taxi : 147
+Taxi :
+Bus :
+Train :
+
+Node 138
+Taxi : 124
+Taxi : 150
+Taxi : 152
+Taxi :
+Bus :
+Train :
+
+Node 139
+Taxi : 130
+Taxi : 140
+Taxi : 154
+Taxi : 153
+Taxi :
+Bus :
+Train :
+
+Node 140
+Taxi : 132
+Taxi : 133
+Taxi : 156
+Taxi : 139
+Taxi : 126
+Taxi : 154
+Taxi :
+Bus : 82
+Bus : 133
+Bus : 156
+Bus : 154
+Bus :
+Train : 89
+Train : 128
+Train : 153
+Train :
+
+Node 141
+Taxi : 133
+Taxi : 134
+Taxi : 142
+Taxi : 158
+Taxi :
+Bus :
+Train :
+
+Node 142
+Taxi : 141
+Taxi : 134
+Taxi : 118
+Taxi : 129
+Taxi : 143
+Taxi : 128
+Taxi : 158
+Taxi :
+Bus : 116
+Bus : 128
+Bus : 157
+Bus :
+Train :
+
+Node 143
+Taxi : 142
+Taxi : 129
+Taxi : 135
+Taxi : 160
+Taxi : 128
+Taxi :
+Bus :
+Train :
+
+Node 144
+Taxi : 120
+Taxi : 145
+Taxi : 177
+Taxi :
+Bus : 122
+Bus : 123
+Bus : 163
+Bus :
+Train :
+
+Node 145
+Taxi : 144
+Taxi : 121
+Taxi : 146
+Taxi :
+Bus :
+Train :
+
+Node 146
+Taxi : 163
+Taxi : 147
+Taxi : 122
+Taxi : 145
+Taxi :
+Bus :
+Train :
+
+Node 147
+Taxi : 146
+Taxi : 137
+Taxi : 164
+Taxi :
+Bus :
+Train :
+
+Node 148
+Taxi : 123
+Taxi : 149
+Taxi : 164
+Taxi :
+Bus :
+Train :
+
+Node 149
+Taxi : 123
+Taxi : 150
+Taxi : 165
+Taxi : 148
+Taxi :
+Bus :
+Train :
+
+Node 150
+Taxi : 149
+Taxi : 138
+Taxi : 151
+Taxi :
+Bus :
+Train :
+
+Node 151
+Taxi : 150
+Taxi : 152
+Taxi : 166
+Taxi : 165
+Taxi :
+Bus :
+Train :
+
+Node 152
+Taxi : 138
+Taxi : 151
+Taxi : 153
+Taxi :
+Bus :
+Train :
+
+Node 153
+Taxi : 152
+Taxi : 139
+Taxi : 154
+Taxi : 167
+Taxi : 166
+Taxi :
+Bus : 124
+Bus : 154
+Bus : 184
+Bus : 180
+Bus :
+Train : 111
+Train : 163
+Train : 185
+Train : 140
+Train :
+
+Node 154
+Taxi : 153
+Taxi : 139
+Taxi : 140
+Taxi : 155
+Taxi :
+Bus : 153
+Bus : 140
+Bus : 156
+Bus :
+Train :
+
+Node 155
+Taxi : 154
+Taxi : 167
+Taxi : 168
+Taxi : 156
+Taxi :
+Bus :
+Train :
+
+Node 156
+Taxi : 140
+Taxi : 157
+Taxi : 169
+Taxi : 155
+Taxi :
+Bus : 140
+Bus : 157
+Bus : 184
+Bus : 154
+Bus :
+Train :
+
+Node 157
+Taxi : 156
+Taxi : 158
+Taxi : 170
+Taxi : 194
+Taxi : 115
+Taxi :
+Bus : 156
+Bus : 142
+Bus : 133
+Bus : 185
+Bus :
+Train :
+
+Node 158
+Taxi : 141
+Taxi : 142
+Taxi : 159
+Taxi : 157
+Taxi :
+Bus :
+Train :
+
+Node 159
+Taxi : 158
+Taxi : 172
+Taxi : 198
+Taxi : 186
+Taxi : 170
+Taxi :
+Bus :
+Train :
+
+Node 160
+Taxi : 128
+Taxi : 143
+Taxi : 161
+Taxi : 173
+Taxi :
+Bus :
+Train :
+
+Node 161
+Taxi : 135
+Taxi : 160
+Taxi : 174
+Taxi :
+Bus : 128
+Bus : 199
+Bus : 107
+Bus : 135
+Bus :
+Train :
+
+Node 162
+Taxi : 136
+Taxi : 175
+Taxi :
+Bus :
+Train :
+
+Node 163
+Taxi : 146
+Taxi : 177
+Taxi :
+Bus : 144
+Bus : 176
+Bus : 191
+Bus :
+Train : 111
+Train : 153
+Train :
+
+Node 164
+Taxi : 147
+Taxi : 148
+Taxi : 179
+Taxi : 178
+Taxi :
+Bus :
+Train :
+
+Node 165
+Taxi : 149
+Taxi : 151
+Taxi : 180
+Taxi : 179
+Taxi :
+Bus : 123
+Bus : 180
+Bus : 191
+Bus :
+Train :
+
+Node 166
+Taxi : 151
+Taxi : 153
+Taxi : 183
+Taxi : 181
+Taxi :
+Bus :
+Train :
+
+Node 167
+Taxi : 153
+Taxi : 155
+Taxi : 168
+Taxi : 183
+Taxi :
+Bus :
+Train :
+
+Node 168
+Taxi : 167
+Taxi : 155
+Taxi : 184
+Taxi :
+Bus :
+Train :
+
+Node 169
+Taxi : 156
+Taxi : 184
+Taxi :
+Bus :
+Train :
+
+Node 170
+Taxi : 157
+Taxi : 185
+Taxi : 159
+Taxi :
+Bus :
+Train :
+
+Node 171
+Taxi : 199
+Taxi : 173
+Taxi : 175
+Taxi :
+Bus :
+Train :
+
+Node 172
+Taxi : 159
+Taxi : 187
+Taxi : 128
+Taxi :
+Bus :
+Train :
+
+Node 173
+Taxi : 188
+Taxi : 171
+Taxi : 174
+Taxi : 160
+Taxi :
+Bus :
+Train :
+
+Node 174
+Taxi : 173
+Taxi : 175
+Taxi : 161
+Taxi :
+Bus :
+Train :
+
+Node 175
+Taxi : 171
+Taxi : 174
+Taxi : 162
+Taxi :
+Bus :
+Train :
+
+Node 176
+Taxi : 177
+Taxi : 189
+Taxi :
+Bus : 163
+Bus : 190
+Bus :
+Train :
+
+Node 177
+Taxi : 176
+Taxi : 144
+Taxi : 163
+Taxi :
+Bus :
+Train :
+
+Node 178
+Taxi : 164
+Taxi : 191
+Taxi : 189
+Taxi :
+Bus :
+Train :
+
+Node 179
+Taxi : 191
+Taxi : 164
+Taxi : 165
+Taxi :
+Bus :
+Train :
+
+Node 180
+Taxi : 165
+Taxi : 181
+Taxi : 193
+Taxi :
+Bus : 190
+Bus : 165
+Bus : 153
+Bus : 184
+Bus :
+Train :
+
+Node 181
+Taxi : 180
+Taxi : 193
+Taxi : 182
+Taxi : 166
+Taxi :
+Bus :
+Train :
+
+Node 182
+Taxi : 181
+Taxi : 195
+Taxi : 183
+Taxi :
+Bus :
+Train :
+
+Node 183
+Taxi : 166
+Taxi : 167
+Taxi : 182
+Taxi : 196
+Taxi :
+Bus :
+Train :
+
+Node 184
+Taxi : 168
+Taxi : 169
+Taxi : 196
+Taxi : 197
+Taxi : 185
+Taxi :
+Bus : 180
+Bus : 153
+Bus : 185
+Bus : 156
+Bus :
+Train :
+
+Node 185
+Taxi : 184
+Taxi : 170
+Taxi : 186
+Taxi :
+Bus : 184
+Bus : 157
+Bus : 187
+Bus :
+Train : 128
+Train : 153
+Train :
+
+Node 186
+Taxi : 185
+Taxi : 198
+Taxi : 159
+Taxi :
+Bus :
+Train :
+
+Node 187
+Taxi : 172
+Taxi : 188
+Taxi : 198
+Taxi :
+Bus : 128
+Bus : 185
+Bus :
+Train :
+
+Node 188
+Taxi : 187
+Taxi : 199
+Taxi : 173
+Taxi : 128
+Taxi :
+Bus :
+Train :
+
+Node 189
+Taxi : 176
+Taxi : 178
+Taxi : 190
+Taxi :
+Bus :
+Train :
+
+Node 190
+Taxi : 189
+Taxi : 191
+Taxi : 192
+Taxi :
+Bus : 176
+Bus : 191
+Bus : 180
+Bus :
+Train :
+
+Node 191
+Taxi : 190
+Taxi : 178
+Taxi : 179
+Taxi : 192
+Taxi :
+Bus : 190
+Bus : 163
+Bus : 165
+Bus :
+Train :
+
+Node 192
+Taxi : 190
+Taxi : 191
+Taxi : 194
+Taxi :
+Bus :
+Train :
+
+Node 193
+Taxi : 180
+Taxi : 181
+Taxi : 194
+Taxi :
+Bus :
+Train :
+
+Node 194
+Taxi : 192
+Taxi : 193
+Taxi : 195
+Taxi : 157
+Bus :
+Train :
+
+Node 195
+Taxi : 194
+Taxi : 182
+Taxi : 197
+Taxi :
+Bus :
+Train :
+
+Node 196
+Taxi : 197
+Taxi : 184
+Taxi : 183
+Taxi :
+Bus :
+Train :
+
+Node 197
+Taxi : 195
+Taxi : 196
+Taxi : 184
+Taxi :
+Bus :
+Train :
+
+Node 198
+Taxi : 186
+Taxi : 159
+Taxi : 199
+Taxi : 187
+Taxi :
+Bus :
+Train :
+
+Node 199
+Taxi : 198
+Taxi : 188
+Taxi : 171
+Taxi :
+Bus : 161
+Bus : 128
+Bus :
+Train :
+
+Node 200
+Taxi :
+Bus :
+Train :

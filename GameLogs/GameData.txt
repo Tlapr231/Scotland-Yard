@@ -1,0 +1,2807 @@
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+Thierry is on the node 26.
+Using a taxi,
+Thierry moved to node 15.
+
+Thierry's tickets : 
+Taxi Ticket : 23 tickets.
+Bus Ticket : 24 tickets.
+Train Ticket : 24 tickets.Black Ticket : 5 tickets.
+Double Ticket : 2 tickets.
+
+Timbits is on the node 138.
+Using a taxi,
+Timbits moved to node 124.
+
+Timbits's tickets : 
+Taxi Ticket : 9 tickets.
+Bus Ticket : 8 tickets.
+Train Ticket : 4 tickets.
+
+Am is on the node 34.
+Using a taxi,
+Am moved to node 22.
+
+Am's tickets : 
+Taxi Ticket : 9 tickets.
+Bus Ticket : 8 tickets.
+Train Ticket : 4 tickets.
+
+Bam is on the node 132.
+Using a taxi,
+Bam moved to node 114.
+
+Bam's tickets : 
+Taxi Ticket : 9 tickets.
+Bus Ticket : 8 tickets.
+Train Ticket : 4 tickets.
+
+Clam is on the node 198.
+Using a taxi,
+Clam moved to node 159.
+
+Clam's tickets : 
+Taxi Ticket : 9 tickets.
+Bus Ticket : 8 tickets.
+Train Ticket : 4 tickets.
+
+Slam is on the node 112.
+Using a taxi,
+Slam moved to node 99.
+
+Slam's tickets : 
+Taxi Ticket : 9 tickets.
+Bus Ticket : 8 tickets.
+Train Ticket : 4 tickets.
+
+================= Round 2 =================
+
+Thierry is on the node 15.
+Using a taxi,
+Thierry moved to node 14.
+
+Thierry's tickets : 
+Taxi Ticket : 22 tickets.
+Bus Ticket : 24 tickets.
+Train Ticket : 24 tickets.Black Ticket : 5 tickets.
+Double Ticket : 2 tickets.
+
+Timbits is on the node 124.
+Using a bus,
+Timbits moved to node 77.
+
+Timbits's tickets : 
+Taxi Ticket : 9 tickets.
+Bus Ticket : 7 tickets.
+Train Ticket : 4 tickets.
+
+Am is on the node 22.
+Using a bus,
+Am moved to node 23.
+
+Am's tickets : 
+Taxi Ticket : 9 tickets.
+Bus Ticket : 7 tickets.
+Train Ticket : 4 tickets.
+
+Bam is on the node 114.
+Using a taxi,
+Bam moved to node 101.
+
+Bam's tickets : 
+Taxi Ticket : 8 tickets.
+Bus Ticket : 8 tickets.
+Train Ticket : 4 tickets.
+
+Clam is on the node 159.
+Using a taxi,
+Clam moved to node 158.
+
+Clam's tickets : 
+Taxi Ticket : 8 tickets.
+Bus Ticket : 8 tickets.
+Train Ticket : 4 tickets.
+
+Slam is on the node 99.
+Using a taxi,
+Slam moved to node 80.
+
+Slam's tickets : 
+Taxi Ticket : 8 tickets.
+Bus Ticket : 8 tickets.
+Train Ticket : 4 tickets.
+
+================= Round 3 =================
+
+Thierry is on the node 14.
+Using a taxi,
+Thierry moved to node 13.
+
+Thierry's tickets : 
+Taxi Ticket : 22 tickets.
+Bus Ticket : 23 tickets.
+Train Ticket : 24 tickets.Black Ticket : 5 tickets.
+Double Ticket : 2 tickets.
+
+Timbits is on the node 77.
+Using a bus,
+Timbits moved to node 58.
+
+Timbits's tickets : 
+Taxi Ticket : 9 tickets.
+Bus Ticket : 6 tickets.
+Train Ticket : 4 tickets.
+
+Am is on the node 23.
+Using a bus,
+Am moved to node 13.
+
+Am's tickets : 
+Taxi Ticket : 9 tickets.
+Bus Ticket : 6 tickets.
+Train Ticket : 4 tickets.
+Mr. X was on node 13 and Am found him on turn 3
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+Thierry is on the node 198.
+Using a taxi,
+Thierry moved to node 187.
+
+Thierry's tickets : 
+Taxi Ticket : 23 tickets.
+Bus Ticket : 24 tickets.
+Train Ticket : 24 tickets.Black Ticket : 5 tickets.
+Double Ticket : 2 tickets.
+
+Timbits is on the node 174.
+Using a taxi,
+Timbits moved to node 161.
+
+Timbits's tickets : 
+Taxi Ticket : 9 tickets.
+Bus Ticket : 8 tickets.
+Train Ticket : 4 tickets.
+
+Am is on the node 132.
+Using a taxi,
+Am moved to node 114.
+
+Am's tickets : 
+Taxi Ticket : 9 tickets.
+Bus Ticket : 8 tickets.
+Train Ticket : 4 tickets.
+
+Bam is on the node 94.
+Using a bus,
+Bam moved to node 74.
+
+Bam's tickets : 
+Taxi Ticket : 10 tickets.
+Bus Ticket : 7 tickets.
+Train Ticket : 4 tickets.
+
+Clam is on the node 103.
+Using a taxi,
+Clam moved to node 85.
+
+Clam's tickets : 
+Taxi Ticket : 9 tickets.
+Bus Ticket : 8 tickets.
+Train Ticket : 4 tickets.
+
+Slam is on the node 138.
+Using a taxi,
+Slam moved to node 124.
+
+Slam's tickets : 
+Taxi Ticket : 9 tickets.
+Bus Ticket : 8 tickets.
+Train Ticket : 4 tickets.
+
+================= Round 2 =================
+
+Thierry is on the node 187.
+Using a taxi,
+Thierry moved to node 128.
+
+Thierry's tickets : 
+Taxi Ticket : 23 tickets.
+Bus Ticket : 23 tickets.
+Train Ticket : 24 tickets.Black Ticket : 5 tickets.
+Double Ticket : 2 tickets.
+
+Timbits is on the node 161.
+Using a bus,
+Timbits moved to node 128.
+
+Timbits's tickets : 
+Taxi Ticket : 9 tickets.
+Bus Ticket : 7 tickets.
+Train Ticket : 4 tickets.
+Mr. X was on node 128 and Timbits found him on turn 2
+The detectives (Timbits, Am, Bam, Clam, Slam, ) have won the game.
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+Thierry is on the node 141.
+Using a taxi,
+Thierry moved to node 133.
+
+Thierry's tickets : 
+Taxi Ticket : 23 tickets.
+Bus Ticket : 24 tickets.
+Train Ticket : 24 tickets.Black Ticket : 5 tickets.
+Double Ticket : 2 tickets.
+
+Timbits is on the node 103.
+Using a taxi,
+Timbits moved to node 102.
+
+Timbits's tickets : 
+Taxi Ticket : 9 tickets.
+Bus Ticket : 8 tickets.
+Train Ticket : 4 tickets.
+
+Am is on the node 29.
+Using a taxi,
+Am moved to node 6.
+
+Am's tickets : 
+Taxi Ticket : 9 tickets.
+Bus Ticket : 8 tickets.
+Train Ticket : 4 tickets.
+
+Bam is on the node 50.
+Using a taxi,
+Bam moved to node 37.
+
+Bam's tickets : 
+Taxi Ticket : 9 tickets.
+Bus Ticket : 8 tickets.
+Train Ticket : 4 tickets.
+
+Clam is on the node 26.
+Using a taxi,
+Clam moved to node 15.
+
+Clam's tickets : 
+Taxi Ticket : 9 tickets.
+Bus Ticket : 8 tickets.
+Train Ticket : 4 tickets.
+
+Slam is on the node 198.
+Using a taxi,
+Slam moved to node 159.
+
+Slam's tickets : 
+Taxi Ticket : 9 tickets.
+Bus Ticket : 8 tickets.
+Train Ticket : 4 tickets.
+
+================= Round 2 =================
+
+Thierry is on the node 133.
+Using a taxi,
+Thierry moved to node 140.
+
+Thierry's tickets : 
+Taxi Ticket : 22 tickets.
+Bus Ticket : 24 tickets.
+Train Ticket : 24 tickets.Black Ticket : 5 tickets.
+Double Ticket : 2 tickets.
+
+Timbits is on the node 102.
+Using a bus,
+Timbits moved to node 67.
+
+Timbits's tickets : 
+Taxi Ticket : 9 tickets.
+Bus Ticket : 7 tickets.
+Train Ticket : 4 tickets.
+
+Am is on the node 6.
+Using a taxi,
+Am moved to node 7.
+
+Am's tickets : 
+Taxi Ticket : 8 tickets.
+Bus Ticket : 8 tickets.
+Train Ticket : 4 tickets.
+
+Bam is on the node 37.
+Using a taxi,
+Bam moved to node 23.
+
+Bam's tickets : 
+Taxi Ticket : 8 tickets.
+Bus Ticket : 8 tickets.
+Train Ticket : 4 tickets.
+
+Clam is on the node 15.
+Using a taxi,
+Clam moved to node 5.
+
+Clam's tickets : 
+Taxi Ticket : 8 tickets.
+Bus Ticket : 8 tickets.
+Train Ticket : 4 tickets.
+
+Slam is on the node 159.
+Using a taxi,
+Slam moved to node 158.
+
+Slam's tickets : 
+Taxi Ticket : 8 tickets.
+Bus Ticket : 8 tickets.
+Train Ticket : 4 tickets.
+
+================= Round 3 =================
+
+Thierry is on the node 140.
+Using a train,
+Thierry moved to node 89.
+
+Thierry's tickets : 
+Taxi Ticket : 22 tickets.
+Bus Ticket : 24 tickets.
+Train Ticket : 23 tickets.Black Ticket : 5 tickets.
+Double Ticket : 2 tickets.
+
+Timbits is on the node 67.
+Using a train,
+Timbits moved to node 89.
+
+Timbits's tickets : 
+Taxi Ticket : 9 tickets.
+Bus Ticket : 7 tickets.
+Train Ticket : 3 tickets.
+
+Mr. X was on node 89 and Timbits found him on turn 3
+The detectives (Timbits, Am, Bam, Clam, Slam) have won the game.
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+Thierry is on the node 34.
+Using a taxi,
+Thierry moved to node 46.
+
+Thierry's tickets : 
+Taxi Ticket : 24 tickets.
+Bus Ticket : 23 tickets.
+Train Ticket : 24 tickets.
+Black Ticket : 5 tickets.
+Double Ticket : 2 tickets.
+
+Timbits is on the node 155.
+Using a taxi,
+Timbits moved to node 154.
+
+Timbits's tickets : 
+Taxi Ticket : 9 tickets.
+Bus Ticket : 8 tickets.
+Train Ticket : 4 tickets.
+
+Am is on the node 197.
+Using a taxi,
+Am moved to node 184.
+
+Am's tickets : 
+Taxi Ticket : 9 tickets.
+Bus Ticket : 8 tickets.
+Train Ticket : 4 tickets.
+
+Bam is on the node 132.
+Using a taxi,
+Bam moved to node 114.
+
+Bam's tickets : 
+Taxi Ticket : 9 tickets.
+Bus Ticket : 8 tickets.
+Train Ticket : 4 tickets.
+
+Clam is on the node 53.
+Using a taxi,
+Clam moved to node 40.
+
+Clam's tickets : 
+Taxi Ticket : 9 tickets.
+Bus Ticket : 8 tickets.
+Train Ticket : 4 tickets.
+
+Slam is on the node 103.
+Using a taxi,
+Slam moved to node 85.
+
+Slam's tickets : 
+Taxi Ticket : 9 tickets.
+Bus Ticket : 8 tickets.
+Train Ticket : 4 tickets.
+
+================= Round 2 =================
+
+Thierry is on the node 46.
+Using a train,
+Thierry moved to node 79.
+
+Thierry's tickets : 
+Taxi Ticket : 24 tickets.
+Bus Ticket : 23 tickets.
+Train Ticket : 23 tickets.
+Black Ticket : 5 tickets.
+Double Ticket : 2 tickets.
+
+Timbits is on the node 154.
+Using a taxi,
+Timbits moved to node 153.
+
+Timbits's tickets : 
+Taxi Ticket : 8 tickets.
+Bus Ticket : 8 tickets.
+Train Ticket : 4 tickets.
+
+Am is on the node 184.
+Using a bus,
+Am moved to node 156.
+
+Am's tickets : 
+Taxi Ticket : 9 tickets.
+Bus Ticket : 7 tickets.
+Train Ticket : 4 tickets.
+
+Bam is on the node 114.
+Using a taxi,
+Bam moved to node 101.
+
+Bam's tickets : 
+Taxi Ticket : 8 tickets.
+Bus Ticket : 8 tickets.
+Train Ticket : 4 tickets.
+
+Clam is on the node 40.
+Using a taxi,
+Clam moved to node 27.
+
+Clam's tickets : 
+Taxi Ticket : 8 tickets.
+Bus Ticket : 8 tickets.
+Train Ticket : 4 tickets.
+
+Slam is on the node 85.
+Using a taxi,
+Slam moved to node 68.
+
+Slam's tickets : 
+Taxi Ticket : 8 tickets.
+Bus Ticket : 8 tickets.
+Train Ticket : 4 tickets.
+
+================= Round 3 =================
+
+Thierry is on the node 79.
+Using a train,
+Thierry moved to node 111.
+
+Thierry's tickets : 
+Taxi Ticket : 24 tickets.
+Bus Ticket : 23 tickets.
+Train Ticket : 22 tickets.
+Black Ticket : 5 tickets.
+Double Ticket : 2 tickets.
+
+Timbits is on the node 153.
+Using a train,
+Timbits moved to node 111.
+
+Timbits's tickets : 
+Taxi Ticket : 8 tickets.
+Bus Ticket : 8 tickets.
+Train Ticket : 3 tickets.
+
+Mr. X was on node 111 and Timbits found him on turn 3.
+The detectives (Timbits, Am, Bam, Clam, Slam) have won the game.
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+Thierry is on the node 117.
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================
+
+=============== New Game ===============
+
+
+The game has been initialized
+Thierry Added
+Timbits Added
+Am Added
+Bam Added
+Clam Added
+Slam Added
+
+Thierry is now Mr.X
+
+================= Round 1 =================

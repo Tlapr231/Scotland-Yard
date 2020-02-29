@@ -1,0 +1,553 @@
+
+//Node 1
+
+nodes[1].addPath(new Path(nodes[1], nodes[8], 1));
+nodes[1].addPath(new Path(nodes[1], nodes[9], 1));
+nodes[1].addPath(new Path(nodes[1], nodes[58], 2));
+nodes[1].addPath(new Path(nodes[1], nodes[46], 2));
+nodes[1].addPath(new Path(nodes[1], nodes[46], 3));
+//Node 2
+
+nodes[2].addPath(new Path(nodes[2], nodes[10], 1));
+nodes[2].addPath(new Path(nodes[2], nodes[20], 1));
+//Node 3
+
+nodes[3].addPath(new Path(nodes[3], nodes[4], 1));
+nodes[3].addPath(new Path(nodes[3], nodes[12], 1));
+nodes[3].addPath(new Path(nodes[3], nodes[11], 1));
+nodes[3].addPath(new Path(nodes[3], nodes[22], 2));
+nodes[3].addPath(new Path(nodes[3], nodes[23], 2));
+//Node 4
+
+nodes[4].addPath(new Path(nodes[4], nodes[3], 1));
+nodes[4].addPath(new Path(nodes[4], nodes[13], 1));
+//Node 5
+
+nodes[5].addPath(new Path(nodes[5], nodes[15], 1));
+nodes[5].addPath(new Path(nodes[5], nodes[16], 1));
+//Node 6
+
+nodes[6].addPath(new Path(nodes[6], nodes[7], 1));
+nodes[6].addPath(new Path(nodes[6], nodes[29], 1));
+//Node 7
+
+nodes[7].addPath(new Path(nodes[7], nodes[6], 1));
+nodes[7].addPath(new Path(nodes[7], nodes[17], 1));
+nodes[7].addPath(new Path(nodes[7], nodes[42], 2));
+//Node 8
+
+nodes[8].addPath(new Path(nodes[8], nodes[1], 1));
+nodes[8].addPath(new Path(nodes[8], nodes[18], 1));
+nodes[8].addPath(new Path(nodes[8], nodes[19], 1));
+//Node 9
+
+nodes[9].addPath(new Path(nodes[9], nodes[1], 1));
+nodes[9].addPath(new Path(nodes[9], nodes[19], 1));
+nodes[9].addPath(new Path(nodes[9], nodes[20], 1));
+//Node 10
+
+nodes[10].addPath(new Path(nodes[10], nodes[2], 1));
+nodes[10].addPath(new Path(nodes[10], nodes[11], 1));
+nodes[10].addPath(new Path(nodes[10], nodes[21], 1));
+nodes[10].addPath(new Path(nodes[10], nodes[34], 1));
+//Node 11
+
+nodes[11].addPath(new Path(nodes[11], nodes[3], 1));
+nodes[11].addPath(new Path(nodes[11], nodes[10], 1));
+nodes[11].addPath(new Path(nodes[11], nodes[22], 1));
+//Node 12
+
+nodes[12].addPath(new Path(nodes[12], nodes[3], 1));
+nodes[12].addPath(new Path(nodes[12], nodes[23], 1));
+//Node 13
+
+nodes[13].addPath(new Path(nodes[13], nodes[4], 1));
+nodes[13].addPath(new Path(nodes[13], nodes[23], 1));
+nodes[13].addPath(new Path(nodes[13], nodes[14], 1));
+nodes[13].addPath(new Path(nodes[13], nodes[24], 1));
+nodes[13].addPath(new Path(nodes[13], nodes[23], 2));
+nodes[13].addPath(new Path(nodes[13], nodes[14], 2));
+nodes[13].addPath(new Path(nodes[13], nodes[52], 2));
+nodes[13].addPath(new Path(nodes[13], nodes[67], 3));
+nodes[13].addPath(new Path(nodes[13], nodes[89], 3));
+nodes[13].addPath(new Path(nodes[13], nodes[46], 3));
+//Node 14
+
+nodes[14].addPath(new Path(nodes[14], nodes[13], 1));
+nodes[14].addPath(new Path(nodes[14], nodes[25], 1));
+nodes[14].addPath(new Path(nodes[14], nodes[15], 1));
+nodes[14].addPath(new Path(nodes[14], nodes[15], 2));
+nodes[14].addPath(new Path(nodes[14], nodes[13], 2));
+//Node 15
+
+nodes[15].addPath(new Path(nodes[15], nodes[14], 1));
+nodes[15].addPath(new Path(nodes[15], nodes[26], 1));
+nodes[15].addPath(new Path(nodes[15], nodes[28], 1));
+nodes[15].addPath(new Path(nodes[15], nodes[16], 1));
+nodes[15].addPath(new Path(nodes[15], nodes[5], 1));
+nodes[15].addPath(new Path(nodes[15], nodes[14], 2));
+nodes[15].addPath(new Path(nodes[15], nodes[41], 2));
+nodes[15].addPath(new Path(nodes[15], nodes[29], 2));
+//Node 16
+
+nodes[16].addPath(new Path(nodes[16], nodes[5], 1));
+nodes[16].addPath(new Path(nodes[16], nodes[15], 1));
+nodes[16].addPath(new Path(nodes[16], nodes[28], 1));
+nodes[16].addPath(new Path(nodes[16], nodes[29], 1));
+//Node 17
+
+nodes[17].addPath(new Path(nodes[17], nodes[7], 1));
+nodes[17].addPath(new Path(nodes[17], nodes[29], 1));
+nodes[17].addPath(new Path(nodes[17], nodes[42], 1));
+nodes[17].addPath(new Path(nodes[17], nodes[30], 1));
+//Node 18
+
+nodes[18].addPath(new Path(nodes[18], nodes[8], 1));
+nodes[18].addPath(new Path(nodes[18], nodes[31], 1));
+nodes[18].addPath(new Path(nodes[18], nodes[43], 1));
+//Node 19
+
+nodes[19].addPath(new Path(nodes[19], nodes[8], 1));
+nodes[19].addPath(new Path(nodes[19], nodes[9], 1));
+nodes[19].addPath(new Path(nodes[19], nodes[32], 1));
+//Node 20
+
+nodes[20].addPath(new Path(nodes[20], nodes[9], 1));
+nodes[20].addPath(new Path(nodes[20], nodes[33], 1));
+nodes[20].addPath(new Path(nodes[20], nodes[2], 1));
+//Node 21
+
+nodes[21].addPath(new Path(nodes[21], nodes[10], 1));
+nodes[21].addPath(new Path(nodes[21], nodes[33], 1));
+//Node 22
+
+nodes[22].addPath(new Path(nodes[22], nodes[11], 1));
+nodes[22].addPath(new Path(nodes[22], nodes[23], 1));
+nodes[22].addPath(new Path(nodes[22], nodes[35], 1));
+nodes[22].addPath(new Path(nodes[22], nodes[34], 1));
+nodes[22].addPath(new Path(nodes[22], nodes[34], 2));
+nodes[22].addPath(new Path(nodes[22], nodes[23], 2));
+nodes[22].addPath(new Path(nodes[22], nodes[3], 2));
+nodes[22].addPath(new Path(nodes[22], nodes[65], 2));
+//Node 23
+
+nodes[23].addPath(new Path(nodes[23], nodes[22], 1));
+nodes[23].addPath(new Path(nodes[23], nodes[37], 1));
+nodes[23].addPath(new Path(nodes[23], nodes[12], 1));
+nodes[23].addPath(new Path(nodes[23], nodes[13], 1));
+nodes[23].addPath(new Path(nodes[23], nodes[3], 2));
+nodes[23].addPath(new Path(nodes[23], nodes[22], 2));
+nodes[23].addPath(new Path(nodes[23], nodes[67], 2));
+nodes[23].addPath(new Path(nodes[23], nodes[13], 2));
+//Node 24
+
+nodes[24].addPath(new Path(nodes[24], nodes[13], 1));
+nodes[24].addPath(new Path(nodes[24], nodes[37], 1));
+nodes[24].addPath(new Path(nodes[24], nodes[38], 1));
+//Node 25
+
+nodes[25].addPath(new Path(nodes[25], nodes[14], 1));
+nodes[25].addPath(new Path(nodes[25], nodes[38], 1));
+nodes[25].addPath(new Path(nodes[25], nodes[39], 1));
+//Node 26
+
+nodes[26].addPath(new Path(nodes[26], nodes[15], 1));
+nodes[26].addPath(new Path(nodes[26], nodes[39], 1));
+nodes[26].addPath(new Path(nodes[26], nodes[27], 1));
+//Node 27
+
+nodes[27].addPath(new Path(nodes[27], nodes[26], 1));
+nodes[27].addPath(new Path(nodes[27], nodes[28], 1));
+nodes[27].addPath(new Path(nodes[27], nodes[40], 1));
+//Node 28
+
+nodes[28].addPath(new Path(nodes[28], nodes[27], 1));
+nodes[28].addPath(new Path(nodes[28], nodes[15], 1));
+nodes[28].addPath(new Path(nodes[28], nodes[16], 1));
+nodes[28].addPath(new Path(nodes[28], nodes[41], 1));
+//Node 29
+
+nodes[29].addPath(new Path(nodes[29], nodes[16], 1));
+nodes[29].addPath(new Path(nodes[29], nodes[6], 1));
+nodes[29].addPath(new Path(nodes[29], nodes[17], 1));
+nodes[29].addPath(new Path(nodes[29], nodes[42], 1));
+nodes[29].addPath(new Path(nodes[29], nodes[55], 1));
+nodes[29].addPath(new Path(nodes[29], nodes[41], 1));
+nodes[29].addPath(new Path(nodes[29], nodes[15], 2));
+nodes[29].addPath(new Path(nodes[29], nodes[41], 2));
+nodes[29].addPath(new Path(nodes[29], nodes[42], 2));
+//Node 30
+
+nodes[30].addPath(new Path(nodes[30], nodes[17], 1));
+nodes[30].addPath(new Path(nodes[30], nodes[42], 1));
+//Node 31
+
+nodes[31].addPath(new Path(nodes[31], nodes[18], 1));
+nodes[31].addPath(new Path(nodes[31], nodes[43], 1));
+nodes[31].addPath(new Path(nodes[31], nodes[44], 1));
+//Node 32
+
+nodes[32].addPath(new Path(nodes[32], nodes[19], 1));
+nodes[32].addPath(new Path(nodes[32], nodes[44], 1));
+nodes[32].addPath(new Path(nodes[32], nodes[45], 1));
+nodes[32].addPath(new Path(nodes[32], nodes[33], 1));
+//Node 33
+
+nodes[33].addPath(new Path(nodes[33], nodes[20], 1));
+nodes[33].addPath(new Path(nodes[33], nodes[21], 1));
+nodes[33].addPath(new Path(nodes[33], nodes[46], 1));
+nodes[33].addPath(new Path(nodes[33], nodes[32], 1));
+//Node 34
+
+nodes[34].addPath(new Path(nodes[34], nodes[47], 1));
+nodes[34].addPath(new Path(nodes[34], nodes[10], 1));
+nodes[34].addPath(new Path(nodes[34], nodes[22], 1));
+nodes[34].addPath(new Path(nodes[34], nodes[48], 1));
+nodes[34].addPath(new Path(nodes[34], nodes[22], 2));
+nodes[34].addPath(new Path(nodes[34], nodes[63], 2));
+nodes[34].addPath(new Path(nodes[34], nodes[46], 2));
+//Node 35
+
+nodes[35].addPath(new Path(nodes[35], nodes[36], 1));
+nodes[35].addPath(new Path(nodes[35], nodes[22], 1));
+nodes[35].addPath(new Path(nodes[35], nodes[48], 1));
+nodes[35].addPath(new Path(nodes[35], nodes[65], 1));
+//Node 36
+
+nodes[36].addPath(new Path(nodes[36], nodes[35], 1));
+nodes[36].addPath(new Path(nodes[36], nodes[49], 1));
+nodes[36].addPath(new Path(nodes[36], nodes[37], 1));
+//Node 37
+
+nodes[37].addPath(new Path(nodes[37], nodes[36], 1));
+nodes[37].addPath(new Path(nodes[37], nodes[23], 1));
+nodes[37].addPath(new Path(nodes[37], nodes[24], 1));
+nodes[37].addPath(new Path(nodes[37], nodes[50], 1));
+//Node 38
+
+nodes[38].addPath(new Path(nodes[38], nodes[24], 1));
+nodes[38].addPath(new Path(nodes[38], nodes[25], 1));
+nodes[38].addPath(new Path(nodes[38], nodes[50], 1));
+nodes[38].addPath(new Path(nodes[38], nodes[51], 1));
+//Node 39
+
+nodes[39].addPath(new Path(nodes[39], nodes[25], 1));
+nodes[39].addPath(new Path(nodes[39], nodes[26], 1));
+nodes[39].addPath(new Path(nodes[39], nodes[52], 1));
+nodes[39].addPath(new Path(nodes[39], nodes[51], 1));
+//Node 40
+
+nodes[40].addPath(new Path(nodes[40], nodes[27], 1));
+nodes[40].addPath(new Path(nodes[40], nodes[41], 1));
+nodes[40].addPath(new Path(nodes[40], nodes[53], 1));
+nodes[40].addPath(new Path(nodes[40], nodes[52], 1));
+//Node 41
+
+nodes[41].addPath(new Path(nodes[41], nodes[28], 1));
+nodes[41].addPath(new Path(nodes[41], nodes[29], 1));
+nodes[41].addPath(new Path(nodes[41], nodes[54], 1));
+nodes[41].addPath(new Path(nodes[41], nodes[40], 1));
+nodes[41].addPath(new Path(nodes[41], nodes[15], 2));
+nodes[41].addPath(new Path(nodes[41], nodes[29], 2));
+nodes[41].addPath(new Path(nodes[41], nodes[87], 2));
+nodes[41].addPath(new Path(nodes[41], nodes[52], 2));
+//Node 42
+
+nodes[42].addPath(new Path(nodes[42], nodes[29], 1));
+nodes[42].addPath(new Path(nodes[42], nodes[30], 1));
+nodes[42].addPath(new Path(nodes[42], nodes[56], 1));
+nodes[42].addPath(new Path(nodes[42], nodes[72], 1));
+nodes[42].addPath(new Path(nodes[42], nodes[7], 2));
+nodes[42].addPath(new Path(nodes[42], nodes[29], 2));
+nodes[42].addPath(new Path(nodes[42], nodes[72], 2));
+//Node 43
+
+nodes[43].addPath(new Path(nodes[43], nodes[18], 1));
+nodes[43].addPath(new Path(nodes[43], nodes[31], 1));
+nodes[43].addPath(new Path(nodes[43], nodes[57], 1));
+//Node 44
+
+nodes[44].addPath(new Path(nodes[44], nodes[31], 1));
+nodes[44].addPath(new Path(nodes[44], nodes[32], 1));
+nodes[44].addPath(new Path(nodes[44], nodes[58], 1));
+//Node 45
+
+nodes[45].addPath(new Path(nodes[45], nodes[58], 1));
+nodes[45].addPath(new Path(nodes[45], nodes[59], 1));
+nodes[45].addPath(new Path(nodes[45], nodes[60], 1));
+nodes[45].addPath(new Path(nodes[45], nodes[46], 1));
+nodes[45].addPath(new Path(nodes[45], nodes[32], 1));
+//Node 46
+
+nodes[46].addPath(new Path(nodes[46], nodes[33], 1));
+nodes[46].addPath(new Path(nodes[46], nodes[47], 1));
+nodes[46].addPath(new Path(nodes[46], nodes[61], 1));
+nodes[46].addPath(new Path(nodes[46], nodes[45], 1));
+nodes[46].addPath(new Path(nodes[46], nodes[1], 2));
+nodes[46].addPath(new Path(nodes[46], nodes[34], 2));
+nodes[46].addPath(new Path(nodes[46], nodes[78], 2));
+nodes[46].addPath(new Path(nodes[46], nodes[58], 2));
+nodes[46].addPath(new Path(nodes[46], nodes[1], 3));
+nodes[46].addPath(new Path(nodes[46], nodes[74], 3));
+nodes[46].addPath(new Path(nodes[46], nodes[79], 3));
+nodes[46].addPath(new Path(nodes[46], nodes[13], 3));
+//Node 47
+
+nodes[47].addPath(new Path(nodes[47], nodes[46], 1));
+nodes[47].addPath(new Path(nodes[47], nodes[62], 1));
+nodes[47].addPath(new Path(nodes[47], nodes[34], 1));
+//Node 48
+
+nodes[48].addPath(new Path(nodes[48], nodes[34], 1));
+nodes[48].addPath(new Path(nodes[48], nodes[35], 1));
+nodes[48].addPath(new Path(nodes[48], nodes[63], 1));
+nodes[48].addPath(new Path(nodes[48], nodes[62], 1));
+//Node 49
+
+nodes[49].addPath(new Path(nodes[49], nodes[36], 1));
+nodes[49].addPath(new Path(nodes[49], nodes[50], 1));
+nodes[49].addPath(new Path(nodes[49], nodes[66], 1));
+//Node 50
+
+nodes[50].addPath(new Path(nodes[50], nodes[37], 1));
+nodes[50].addPath(new Path(nodes[50], nodes[38], 1));
+nodes[50].addPath(new Path(nodes[50], nodes[49], 1));
+//Node 51
+
+nodes[51].addPath(new Path(nodes[51], nodes[38], 1));
+nodes[51].addPath(new Path(nodes[51], nodes[39], 1));
+nodes[51].addPath(new Path(nodes[51], nodes[52], 1));
+nodes[51].addPath(new Path(nodes[51], nodes[68], 1));
+nodes[51].addPath(new Path(nodes[51], nodes[67], 1));
+//Node 52
+
+nodes[52].addPath(new Path(nodes[52], nodes[51], 1));
+nodes[52].addPath(new Path(nodes[52], nodes[39], 1));
+nodes[52].addPath(new Path(nodes[52], nodes[40], 1));
+nodes[52].addPath(new Path(nodes[52], nodes[69], 1));
+nodes[52].addPath(new Path(nodes[52], nodes[13], 2));
+nodes[52].addPath(new Path(nodes[52], nodes[41], 2));
+nodes[52].addPath(new Path(nodes[52], nodes[86], 2));
+nodes[52].addPath(new Path(nodes[52], nodes[67], 2));
+//Node 53
+
+nodes[53].addPath(new Path(nodes[53], nodes[69], 1));
+nodes[53].addPath(new Path(nodes[53], nodes[40], 1));
+nodes[53].addPath(new Path(nodes[53], nodes[54], 1));
+//Node 54
+
+nodes[54].addPath(new Path(nodes[54], nodes[41], 1));
+nodes[54].addPath(new Path(nodes[54], nodes[53], 1));
+nodes[54].addPath(new Path(nodes[54], nodes[70], 1));
+nodes[54].addPath(new Path(nodes[54], nodes[55], 1));
+//Node 55
+
+nodes[55].addPath(new Path(nodes[55], nodes[54], 1));
+nodes[55].addPath(new Path(nodes[55], nodes[71], 1));
+nodes[55].addPath(new Path(nodes[55], nodes[29], 2));
+nodes[55].addPath(new Path(nodes[55], nodes[89], 2));
+//Node 56
+
+nodes[56].addPath(new Path(nodes[56], nodes[42], 1));
+nodes[56].addPath(new Path(nodes[56], nodes[91], 1));
+//Node 57
+
+nodes[57].addPath(new Path(nodes[57], nodes[43], 1));
+nodes[57].addPath(new Path(nodes[57], nodes[58], 1));
+nodes[57].addPath(new Path(nodes[57], nodes[73], 1));
+//Node 58
+
+nodes[58].addPath(new Path(nodes[58], nodes[44], 1));
+nodes[58].addPath(new Path(nodes[58], nodes[45], 1));
+nodes[58].addPath(new Path(nodes[58], nodes[59], 1));
+nodes[58].addPath(new Path(nodes[58], nodes[57], 1));
+nodes[58].addPath(new Path(nodes[58], nodes[1], 2));
+nodes[58].addPath(new Path(nodes[58], nodes[46], 2));
+nodes[58].addPath(new Path(nodes[58], nodes[77], 2));
+//Node 59
+
+nodes[59].addPath(new Path(nodes[59], nodes[58], 1));
+nodes[59].addPath(new Path(nodes[59], nodes[45], 1));
+nodes[59].addPath(new Path(nodes[59], nodes[76], 1));
+nodes[59].addPath(new Path(nodes[59], nodes[75], 1));
+//Node 60
+
+nodes[60].addPath(new Path(nodes[60], nodes[45], 1));
+nodes[60].addPath(new Path(nodes[60], nodes[76], 1));
+nodes[60].addPath(new Path(nodes[60], nodes[61], 1));
+//Node 61
+
+nodes[61].addPath(new Path(nodes[61], nodes[60], 1));
+nodes[61].addPath(new Path(nodes[61], nodes[76], 1));
+nodes[61].addPath(new Path(nodes[61], nodes[62], 1));
+nodes[61].addPath(new Path(nodes[61], nodes[46], 1));
+nodes[61].addPath(new Path(nodes[61], nodes[78], 1));
+//Node 62
+
+nodes[62].addPath(new Path(nodes[62], nodes[61], 1));
+nodes[62].addPath(new Path(nodes[62], nodes[47], 1));
+nodes[62].addPath(new Path(nodes[62], nodes[48], 1));
+nodes[62].addPath(new Path(nodes[62], nodes[79], 1));
+//Node 63
+
+nodes[63].addPath(new Path(nodes[63], nodes[48], 1));
+nodes[63].addPath(new Path(nodes[63], nodes[64], 1));
+nodes[63].addPath(new Path(nodes[63], nodes[80], 1));
+nodes[63].addPath(new Path(nodes[63], nodes[79], 1));
+nodes[63].addPath(new Path(nodes[63], nodes[34], 2));
+nodes[63].addPath(new Path(nodes[63], nodes[79], 2));
+nodes[63].addPath(new Path(nodes[63], nodes[100], 2));
+nodes[63].addPath(new Path(nodes[63], nodes[65], 2));
+//Node 64
+
+nodes[64].addPath(new Path(nodes[64], nodes[63], 1));
+nodes[64].addPath(new Path(nodes[64], nodes[81], 1));
+nodes[64].addPath(new Path(nodes[64], nodes[65], 1));
+//Node 65
+
+nodes[65].addPath(new Path(nodes[65], nodes[35], 1));
+nodes[65].addPath(new Path(nodes[65], nodes[66], 1));
+nodes[65].addPath(new Path(nodes[65], nodes[82], 1));
+nodes[65].addPath(new Path(nodes[65], nodes[64], 1));
+nodes[65].addPath(new Path(nodes[65], nodes[22], 2));
+nodes[65].addPath(new Path(nodes[65], nodes[67], 2));
+nodes[65].addPath(new Path(nodes[65], nodes[82], 2));
+nodes[65].addPath(new Path(nodes[65], nodes[63], 2));
+//Node 66
+
+nodes[66].addPath(new Path(nodes[66], nodes[49], 1));
+nodes[66].addPath(new Path(nodes[66], nodes[67], 1));
+nodes[66].addPath(new Path(nodes[66], nodes[82], 1));
+nodes[66].addPath(new Path(nodes[66], nodes[65], 1));
+//Node 67
+
+nodes[67].addPath(new Path(nodes[67], nodes[51], 1));
+nodes[67].addPath(new Path(nodes[67], nodes[68], 1));
+nodes[67].addPath(new Path(nodes[67], nodes[84], 1));
+nodes[67].addPath(new Path(nodes[67], nodes[66], 1));
+nodes[67].addPath(new Path(nodes[67], nodes[23], 2));
+nodes[67].addPath(new Path(nodes[67], nodes[52], 2));
+nodes[67].addPath(new Path(nodes[67], nodes[102], 2));
+nodes[67].addPath(new Path(nodes[67], nodes[82], 2));
+nodes[67].addPath(new Path(nodes[67], nodes[65], 2));
+nodes[67].addPath(new Path(nodes[67], nodes[13], 3));
+nodes[67].addPath(new Path(nodes[67], nodes[89], 3));
+nodes[67].addPath(new Path(nodes[67], nodes[111], 3));
+nodes[67].addPath(new Path(nodes[67], nodes[79], 3));
+//Node 68
+
+nodes[68].addPath(new Path(nodes[68], nodes[51], 1));
+nodes[68].addPath(new Path(nodes[68], nodes[69], 1));
+nodes[68].addPath(new Path(nodes[68], nodes[85], 1));
+nodes[68].addPath(new Path(nodes[68], nodes[67], 1));
+//Node 69
+
+nodes[69].addPath(new Path(nodes[69], nodes[52], 1));
+nodes[69].addPath(new Path(nodes[69], nodes[53], 1));
+nodes[69].addPath(new Path(nodes[69], nodes[86], 1));
+nodes[69].addPath(new Path(nodes[69], nodes[68], 1));
+//Node 70
+
+nodes[70].addPath(new Path(nodes[70], nodes[54], 1));
+nodes[70].addPath(new Path(nodes[70], nodes[71], 1));
+nodes[70].addPath(new Path(nodes[70], nodes[87], 1));
+//Node 71
+
+nodes[71].addPath(new Path(nodes[71], nodes[55], 1));
+nodes[71].addPath(new Path(nodes[71], nodes[72], 1));
+nodes[71].addPath(new Path(nodes[71], nodes[89], 1));
+nodes[71].addPath(new Path(nodes[71], nodes[70], 1));
+//Node 72
+
+nodes[72].addPath(new Path(nodes[72], nodes[42], 1));
+nodes[72].addPath(new Path(nodes[72], nodes[91], 1));
+nodes[72].addPath(new Path(nodes[72], nodes[90], 1));
+nodes[72].addPath(new Path(nodes[72], nodes[71], 1));
+nodes[72].addPath(new Path(nodes[72], nodes[42], 2));
+nodes[72].addPath(new Path(nodes[72], nodes[107], 2));
+nodes[72].addPath(new Path(nodes[72], nodes[105], 2));
+//Node 73
+
+nodes[73].addPath(new Path(nodes[73], nodes[57], 1));
+nodes[73].addPath(new Path(nodes[73], nodes[92], 1));
+nodes[73].addPath(new Path(nodes[73], nodes[74], 1));
+//Node 74
+
+nodes[74].addPath(new Path(nodes[74], nodes[73], 1));
+nodes[74].addPath(new Path(nodes[74], nodes[92], 1));
+nodes[74].addPath(new Path(nodes[74], nodes[58], 1));
+nodes[74].addPath(new Path(nodes[74], nodes[58], 2));
+nodes[74].addPath(new Path(nodes[74], nodes[94], 2));
+nodes[74].addPath(new Path(nodes[74], nodes[46], 3));
+//Node 75
+
+nodes[75].addPath(new Path(nodes[75], nodes[74], 1));
+nodes[75].addPath(new Path(nodes[75], nodes[58], 1));
+nodes[75].addPath(new Path(nodes[75], nodes[59], 1));
+nodes[75].addPath(new Path(nodes[75], nodes[94], 1));
+//Node 76
+
+nodes[76].addPath(new Path(nodes[76], nodes[59], 1));
+nodes[76].addPath(new Path(nodes[76], nodes[60], 1));
+nodes[76].addPath(new Path(nodes[76], nodes[61], 1));
+nodes[76].addPath(new Path(nodes[76], nodes[77], 1));
+//Node 77
+
+nodes[77].addPath(new Path(nodes[77], nodes[76], 1));
+nodes[77].addPath(new Path(nodes[77], nodes[78], 1));
+nodes[77].addPath(new Path(nodes[77], nodes[96], 1));
+nodes[77].addPath(new Path(nodes[77], nodes[95], 1));
+nodes[77].addPath(new Path(nodes[77], nodes[58], 2));
+nodes[77].addPath(new Path(nodes[77], nodes[78], 2));
+nodes[77].addPath(new Path(nodes[77], nodes[124], 2));
+nodes[77].addPath(new Path(nodes[77], nodes[94], 2));
+//Node 78
+
+nodes[78].addPath(new Path(nodes[78], nodes[61], 1));
+nodes[78].addPath(new Path(nodes[78], nodes[79], 1));
+nodes[78].addPath(new Path(nodes[78], nodes[97], 1));
+nodes[78].addPath(new Path(nodes[78], nodes[77], 1));
+nodes[78].addPath(new Path(nodes[78], nodes[79], 2));
+nodes[78].addPath(new Path(nodes[78], nodes[77], 2));
+nodes[78].addPath(new Path(nodes[78], nodes[46], 2));
+//Node 79
+
+nodes[79].addPath(new Path(nodes[79], nodes[62], 1));
+nodes[79].addPath(new Path(nodes[79], nodes[63], 1));
+nodes[79].addPath(new Path(nodes[79], nodes[98], 1));
+nodes[79].addPath(new Path(nodes[79], nodes[78], 1));
+nodes[79].addPath(new Path(nodes[79], nodes[78], 2));
+nodes[79].addPath(new Path(nodes[79], nodes[63], 2));
+nodes[79].addPath(new Path(nodes[79], nodes[46], 3));
+nodes[79].addPath(new Path(nodes[79], nodes[93], 3));
+nodes[79].addPath(new Path(nodes[79], nodes[111], 3));
+nodes[79].addPath(new Path(nodes[79], nodes[67], 3));
+//Node 80
+
+nodes[80].addPath(new Path(nodes[80], nodes[63], 1));
+nodes[80].addPath(new Path(nodes[80], nodes[100], 1));
+nodes[80].addPath(new Path(nodes[80], nodes[99], 1));
+//Node 81
+
+nodes[81].addPath(new Path(nodes[81], nodes[82], 1));
+nodes[81].addPath(new Path(nodes[81], nodes[64], 1));
+nodes[81].addPath(new Path(nodes[81], nodes[100], 1));
+//Node 82
+
+nodes[82].addPath(new Path(nodes[82], nodes[65], 1));
+nodes[82].addPath(new Path(nodes[82], nodes[66], 1));
+nodes[82].addPath(new Path(nodes[82], nodes[101], 1));
+nodes[82].addPath(new Path(nodes[82], nodes[81], 1));
+nodes[82].addPath(new Path(nodes[82], nodes[65], 2));
+nodes[82].addPath(new Path(nodes[82], nodes[67], 2));
+nodes[82].addPath(new Path(nodes[82], nodes[140], 2));
+nodes[82].addPath(new Path(nodes[82], nodes[100], 2));
+//Node 83
+
+nodes[83].addPath(new Path(nodes[83], nodes[101], 1));
+nodes[83].addPath(new Path(nodes[83], nodes[102], 1));
+//Node 84
+
+nodes[84].addPath(new Path(nodes[84], nodes[67], 1));
+nodes[84].addPath(new Path(nodes[84], nodes[85], 1));
+//Node 85
